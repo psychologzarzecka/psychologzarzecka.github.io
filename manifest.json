@@ -1,0 +1,35 @@
+{
+    "name": "Perspektywa",
+    "short_name": "P",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#hexcode",
+    "theme_color": "#hexcode",
+    "description": "Centrum Psychologiczne Perspektywa to miejsce, gdzie troska o zdrowie psychiczne i dobrostan emocjonalny jest naszym priorytetem. Nasz zespół wykwalifikowanych psychologów, terapeutów i coachów oferuje kompleksowe wsparcie w zakresie terapii indywidualnej, par, rodzinnej oraz grupowej. Specjalizujemy się w leczeniu różnorodnych problemów, takich jak depresja, lęki, stres, trudności w relacjach interpersonalnych oraz zaburzenia zachowania.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
